@@ -1,4 +1,4 @@
-package com.antra.restapipractice.pojo;
+package com.antra.restapipractice.vo;
 
 public class CatFact {
     private String catFact;

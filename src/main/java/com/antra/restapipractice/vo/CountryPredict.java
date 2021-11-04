@@ -1,9 +1,11 @@
-package com.antra.restapipractice.pojo;
+package com.antra.restapipractice.vo;
 
 public class CountryPredict {
+    
     private String name;
     private String country;
 
+    
     public String getName() {
         return name;
     }
